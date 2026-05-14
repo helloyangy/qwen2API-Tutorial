@@ -5,6 +5,8 @@
 ![preview](./_resources/ae2af77bc5ff3f3493be1fdd4f6fdd9f.png)
 
 ---
+项目地址：https://github.com/YuJunZhiXue/qwen2API
+---
 
 ## 目录
 
